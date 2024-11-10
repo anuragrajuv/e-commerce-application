@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-application",
+  "version": "1.0.0",
+  "description": "E-comm App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitgub.com/anuragrajuv/e-commerce-application.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "shopping",
+    "app"
+  ],
+  "author": "Anurag Raju",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
